@@ -1,3 +1,11 @@
+# In this repo
+- Use State Hook
+- Use Effect Hook
+- React Content
+- Use Reducer
+- React Router
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
